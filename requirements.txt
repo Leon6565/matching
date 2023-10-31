@@ -1,0 +1,17 @@
+# Name                    Version                   Build  Channel
+faiss                     1.7.4           py310cuda112h2e38ea5_0_cuda    conda-forge
+faiss-gpu                 1.7.4                h949689a_0    conda-forge
+matplotlib                3.7.2           py310haa95532_0
+matplotlib-base           3.7.2           py310h4ed8f06_0
+matplotlib-inline         0.1.6           py310haa95532_0
+numpy                     1.23.5          py310h60c9a35_0    anaconda
+numpy-base                1.23.5          py310h04254f7_0    anaconda
+numpydoc                  1.5.0           py310haa95532_0
+openjpeg                  2.4.0                h4fc8c34_0
+openpyxl                  3.0.10          py310h2bbff1b_0
+openssl                   1.1.1w               hcfcfb64_0    conda-forge
+packaging                 23.1            py310haa95532_0
+pandas                    2.1.1           py310h4ed8f06_0
+seaborn                   0.12.2          py310haa95532_0
+statsmodels               0.13.5          py310h9128911_1
+tqdm                      4.65.0          py310h9909e9c_0
